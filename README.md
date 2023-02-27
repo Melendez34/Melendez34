@@ -2,11 +2,14 @@
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+## Welcome to my GitHub:
+
 - I'm Software Developer from México 🇲🇽
 - I'm passionate about new experiences, learning everyday something new...✨
 - **beat the competition through authenticity**
 - 🔭 I’m currently working on [TV Azteca](https://www.gruposalinas.com/es/empresas/tv-azteca/)
-- 🌱 I’m currently learning BackEnd with NodeJS and Python.
+- Implementing solutions for Back-end.
+- 🌱 I’m currently learning NodeJS and Python.
 - 💬 Ask me about to tweak your terminal, I'm happy to share.
 - 😄 Pronouns: He, Him
 - ⚡ Hobbies: Football, Dancing, Eating, Gaming, Learning, watching movies.
