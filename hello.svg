@@ -29,7 +29,7 @@
           --color-main: #5452ee;
           --color-primary: #e73c7e;
           --color-secondary: #23a6d5;
-          --color-tertiary: #ffff;
+          --color-tertiary: #585858;
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
           background-size: 400% 400%;
@@ -54,7 +54,7 @@
 
         @media (prefers-color-scheme: light) {
           .container {
-            --color-main: #F15BB5;
+            --color-main: #5B5BF1;
             --color-primary: #24b0ef;
             --color-secondary: #4526f6;
             --color-tertiary: #f6f645;
@@ -73,7 +73,7 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name id Omar Meléndez <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Omar Meléndez <div class="hi">👋</div></h1>
       </div>
     </div>
   </foreignObject>
