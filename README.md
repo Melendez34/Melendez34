@@ -4,13 +4,12 @@
 
 ## Welcome to my GitHub:
 
-- I'm Software Developer from México 🇲🇽
+- I'm Software Developer/DEVOPS/SRE currently working from México 🇲🇽
 - I'm passionate about new experiences, learning everyday something new...✨
 - **beat the competition through authenticity**
-- 🔭 I’m currently working on [TV Azteca](https://www.gruposalinas.com/es/empresas/tv-azteca/)
-- Implementing solutions for Back-end.
-- 🌱 I’m currently learning NodeJS and Python.
-- 💬 Ask me about to tweak your terminal, I'm happy to share.
+- 🔭 I’m currently working on [MUHAMI](https://www.likedin.com/company/muhami/)
+- Implementing solutions for Back-end, CI/CD pipelines, Web Services.
+- 🌱 I’m currently learning Claude LLM integrations, MCP servers.
 - 😄 Pronouns: He, Him
 - ⚡ Hobbies: Football, Dancing, Eating, Gaming, Learning, watching movies.
 
